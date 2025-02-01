@@ -24,7 +24,7 @@ Mobile View
 
 Desktop View
 <div align="center">
-  <img src="Screenshot/Screenshot-DesktopView.jpg" alt="Login Page Screenshot from Desktop" width="600">
+  <img src="Screenshot/Screenshot-DesktopView.png" alt="Login Page Screenshot from Desktop" width="600">
 </div>
 </details>
 
