@@ -15,15 +15,14 @@ A modern login page designed with HTML and CSS, now enhanced with auto-scaling f
 ## Screenshot
 <details>
   <summary>Screenshots</summary>
-  
-Mobile View
 <div align="center">
+  Mobile View
   <img src="Screenshot/Screenshot-PhoneView.jpg" alt="Login Page Screenshot from Mobile" width="600">
 </div>
 
 
-Desktop View
 <div align="center">
+  Desktop View
   <img src="Screenshot/Screenshot-DesktopView.png" alt="Login Page Screenshot from Desktop" width="600">
 </div>
 </details>
