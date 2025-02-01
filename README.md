@@ -19,7 +19,7 @@ A modern login page designed with HTML and CSS, now enhanced with auto-scaling f
 Mobile View
 
 <div align="center">
-  <img src="Screenshot/Screenshot-PhoneView.jpg" alt="Login Page Screenshot from Mobile" width="600" height="300">
+  <img src="Screenshot/Screenshot-PhoneView.jpg" alt="Login Page Screenshot from Mobile" width="100" height="100">
 </div>
 </details>
 
