@@ -12,13 +12,16 @@ A modern login page designed with HTML and CSS, now enhanced with auto-scaling f
 - Removed social login buttons for Google and Facebook to keep the UI clean.
 - Added an auto-scaling feature that dynamically adjusts the form and background size based on the user's device resolution.
 
-## Screenshots
-
+## Screenshot
+<details>
+  <summary>Screenshots</summary>
+  
 Mobile View
 
 <div align="center">
   <img src="Screenshot/Screenshot-PhoneView.jpg" alt="Login Page Screenshot from Mobile" width="600">
 </div>
+</details>
 
 ## Download
 
