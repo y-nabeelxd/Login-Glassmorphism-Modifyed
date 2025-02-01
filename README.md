@@ -35,4 +35,8 @@ Mobile View
   <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
     Live Demo
   </button>
+</a> | <a href="https://github.com/y-nabeelxd/Login-Glassmorphism">
+  <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Check Pervious Version
+  </button>
 </a>
